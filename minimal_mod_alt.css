@@ -1,7 +1,7 @@
-/* MINIMAL MOD */ /* VERSION-3.2.2 */ /* MODIFIED-2014.01.18 */
+/* MINIMAL MOD ALTERNATIVE */ /* VERSION-4.0.0 */ /* MODIFIED-2017.02.01 */
 
 /* GLOBAL */
-body{background:#262626 url(minimal_mod_header.png) repeat-x;background-color:#262626;color:#F1F1F1;font-family:'Arial',sans-serif;font-size:8pt;margin:0;}
+body{background:url(minimal_mod_header.png) repeat-x, url(minimal_mod_pattern.png) fixed 50% 0 repeat;background-color:#262626;color:#F1F1F1;font-family:'Arial',sans-serif;font-size:8pt;margin:0;}
 h1,h2,h3,h4{margin-top:0;padding:0;}
 a,a:visited,a:active{color:#5AF;text-decoration:none;}
 a:hover{color:#49D;text-decoration:underline;}
