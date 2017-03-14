@@ -1,0 +1,97 @@
+/*
+
+Todo: Clean CSS.
+Base: layer_cake
+*/
+
+@import url('flatstyle_emerald_white_v2.css');
+@import url('flatstyle_dark.css');
+
+#extra1 {
+background: #34495e;
+}
+
+.colhead_dark {
+background: #34495e;
+color: #fff;
+}
+.head {
+background: #34495e;
+color: #fff;
+}
+.head stronge{
+    color:#fff;
+}
+
+.colhead_dark stronge a{
+    color:#fff;
+}
+
+.colhead_dark stronge a:hover{
+    color: #34495e;
+}
+
+.center_poll {
+    background:#34495e;
+}
+
+.tl_free {
+    color: #f1c40f;
+    text-shadow: 1px 1px 0 #000;
+}
+
+#searchbars input:focus {
+border-color: #34495e;
+background:#fff;
+color: #34495e;
+}
+
+.colhead {
+background: #34495e;
+color:#fff;
+}
+
+input[type=submit], input[type=button]{
+    background:#34495e;
+}
+
+input[type=submit]:hover, input[type=button]:hover{
+background-color: #ec7063;
+border-color: #ec7063;
+}
+
+input[type=submit]:focus, input[type=button]:focus {
+background-color: #ec7063;
+border-color: #ec7063;
+}
+textarea:hover,select:hover, input[type=text]:hover, input[type="email"]:hover, input[type="password"]:hover, input[type=search]:hover {
+border-color: #34495e;
+}
+
+textarea:active,select:active, input[type=text]:active, input[type="email"]:active, input[type="password"]:active, input[type=search]:active,
+textarea:focus,select:focus, input[type=text]:focus, input[type="email"]:focus, input[type="password"]:focus, input[type=search]:focus{
+border-color: #2c3e50;
+}
+
+.tooltipster-default {
+	border-radius: 5px;
+	border: 2px solid #34495e;
+	background: #2c3e50;
+	color: #fff!important;
+}
+
+.colhead_dark a,.colhead a,.head a{
+	color: #BEBEBE;
+}
+
+.colhead_dark a:hover,.colhead a:hover,.head a:hover {
+	color: #2c3e50;
+}
+
+.unread_locked_sticky::before,.unread_sticky::before,.unread_locked::before,.unread::before{
+	color: #3498db;
+}
+
+#userinfo ul li a:hover {
+    background: #3498db;
+}
